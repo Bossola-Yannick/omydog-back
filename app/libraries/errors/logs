@@ -1,0 +1,457 @@
+{
+  name: 'ApiError',
+  status: 404,
+  level: 'error',
+  message: 'Ressource not found',
+  stack: 'ApiError: Ressource not found\n' +
+    '    at file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/routers/index.router.js:20:8\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)',
+  timestamp: '2024-07-17T20:24:54.233Z'
+}
+{
+  name: 'ApiError',
+  status: 404,
+  level: 'error',
+  message: 'Ressource not found',
+  stack: 'ApiError: Ressource not found\n' +
+    '    at file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/routers/index.router.js:20:8\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)',
+  timestamp: '2024-07-17T20:26:13.196Z'
+}
+{
+  name: 'ApiError',
+  status: 404,
+  level: 'error',
+  message: 'Ressource not found',
+  stack: 'ApiError: Ressource not found\n' +
+    '    at file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/routers/index.router.js:20:8\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)',
+  timestamp: '2024-07-17T20:26:14.227Z'
+}
+{
+  name: 'ApiError',
+  status: 404,
+  level: 'error',
+  message: 'Ressource not found',
+  stack: 'ApiError: Ressource not found\n' +
+    '    at file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/routers/index.router.js:21:8\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at Function.handle (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:328:13)',
+  timestamp: '2024-07-17T20:29:23.952Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:14:13\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/route.js:149:13)\n' +
+    '    at Route.dispatch (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/route.js:119:3)\n' +
+    '    at Layer.handle [as handle_request] (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:284:15\n' +
+    '    at param (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:365:14)\n' +
+    '    at param (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:376:14)\n' +
+    '    at Function.process_params (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:421:3)\n' +
+    '    at next (/var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/node_modules/express/lib/router/index.js:280:10)',
+  timestamp: '2024-07-17T20:30:51.726Z'
+}
+{
+  _original: {
+    firstname: 'Albert',
+    lastname: 'Osef',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**',
+    city: 'Toulon',
+    phone_number: '061225636289',
+    repeatPassword: 'uuUU**',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: '"password" length must be at least 8 characters long',
+      path: [ 'password' ],
+      type: 'string.min',
+      context: {
+        limit: 8,
+        value: 'uuUU**',
+        encoding: undefined,
+        label: 'password',
+        key: 'password'
+      }
+    }
+  ],
+  level: 'error',
+  message: '"password" length must be at least 8 characters long',
+  stack: 'ValidationError: "password" length must be at least 8 characters long',
+  timestamp: '2024-07-18T14:21:43.467Z'
+}
+{
+  _original: {
+    firstname: 'Albert',
+    lastname: 'Osef',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '061225636289',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: 'Incorrect phone number',
+      path: [ 'phone_number' ],
+      type: 'string.pattern.base',
+      context: {
+        name: undefined,
+        regex: /^(0|\+33|0033)[1-9][0-9]{8}$/,
+        value: '061225636289',
+        label: 'phone_number',
+        key: 'phone_number'
+      }
+    }
+  ],
+  level: 'error',
+  message: 'Incorrect phone number',
+  stack: 'ValidationError: Incorrect phone number',
+  timestamp: '2024-07-18T14:21:59.897Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:45:53.117Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:45:53.120Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:45:54.142Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:45:56.152Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:46:00.162Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T14:47:53.971Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-18T19:23:59.147Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-19T12:15:21.571Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:40:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-19T15:46:29.145Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:41:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-19T15:48:26.981Z'
+}
+{
+  status: 401,
+  level: 'error',
+  message: 'Invalid token',
+  stack: 'Error: Invalid token\n' +
+    '    at Object.refreshTokens (file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/helpers/jwt.services.js:41:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///var/www/html/onigiri/oMyDog/projet-6-o-mydog-back/app/libraries/middlewares/auth.middleware.js:41:47',
+  timestamp: '2024-07-19T15:50:33.581Z'
+}
+{
+  _original: {
+    firstname: '',
+    lastname: 'Osef',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '061225636289',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: '"firstname" is not allowed to be empty',
+      path: [ 'firstname' ],
+      type: 'string.empty',
+      context: { label: 'firstname', value: '', key: 'firstname' }
+    }
+  ],
+  level: 'error',
+  message: '"firstname" is not allowed to be empty',
+  stack: 'ValidationError: "firstname" is not allowed to be empty',
+  timestamp: '2024-08-22T08:29:47.148Z'
+}
+{
+  _original: {
+    firstname: 'test',
+    lastname: '',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '061225636289',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: '"lastname" is not allowed to be empty',
+      path: [ 'lastname' ],
+      type: 'string.empty',
+      context: { label: 'lastname', value: '', key: 'lastname' }
+    }
+  ],
+  level: 'error',
+  message: '"lastname" is not allowed to be empty',
+  stack: 'ValidationError: "lastname" is not allowed to be empty',
+  timestamp: '2024-08-22T08:58:52.677Z'
+}
+{
+  _original: {
+    firstname: 'te',
+    lastname: 'test',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '061225636289',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: '"firstname" length must be at least 3 characters long',
+      path: [ 'firstname' ],
+      type: 'string.min',
+      context: {
+        limit: 3,
+        value: 'te',
+        encoding: undefined,
+        label: 'firstname',
+        key: 'firstname'
+      }
+    }
+  ],
+  level: 'error',
+  message: '"firstname" length must be at least 3 characters long',
+  stack: 'ValidationError: "firstname" length must be at least 3 characters long',
+  timestamp: '2024-08-22T09:02:39.859Z'
+}
+{
+  _original: {
+    firstname: 'test',
+    lastname: 'test',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '0612',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: 'Incorrect phone number',
+      path: [ 'phone_number' ],
+      type: 'string.pattern.base',
+      context: {
+        name: undefined,
+        regex: /^(0|\+33|0033)[1-9][0-9]{8}$/,
+        value: '0612',
+        label: 'phone_number',
+        key: 'phone_number'
+      }
+    }
+  ],
+  level: 'error',
+  message: 'Incorrect phone number',
+  stack: 'ValidationError: Incorrect phone number',
+  timestamp: '2024-08-22T11:01:40.027Z'
+}
+{
+  _original: {
+    firstname: 'test',
+    lastname: 'test',
+    email: 'alb.osef@tralala.pof',
+    password: 'uuUU**00',
+    city: 'Toulon',
+    phone_number: '0612',
+    repeatPassword: 'uuUU**00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: 'Incorrect phone number',
+      path: [ 'phone_number' ],
+      type: 'string.pattern.base',
+      context: {
+        name: undefined,
+        regex: /^(0|\+33|0033)[1-9][0-9]{8}$/,
+        value: '0612',
+        label: 'phone_number',
+        key: 'phone_number'
+      }
+    }
+  ],
+  level: 'error',
+  message: 'Incorrect phone number',
+  stack: 'ValidationError: Incorrect phone number',
+  timestamp: '2024-08-22T11:01:43.657Z'
+}
+{
+  _original: {
+    firstname: 'fake',
+    lastname: 'fake',
+    email: 'fakefake@fake.fak',
+    city: 'Toulon (83)',
+    phone_number: '0625',
+    password: 'aaAA!!00',
+    repeatPassword: 'aaAA!!00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: 'Incorrect phone number',
+      path: [ 'phone_number' ],
+      type: 'string.pattern.base',
+      context: {
+        name: undefined,
+        regex: /^(0|\+33|0033)[1-9][0-9]{8}$/,
+        value: '0625',
+        label: 'phone_number',
+        key: 'phone_number'
+      }
+    }
+  ],
+  level: 'error',
+  message: 'Incorrect phone number',
+  stack: 'ValidationError: Incorrect phone number',
+  timestamp: '2024-08-22T11:05:17.267Z'
+}
+{
+  _original: {
+    firstname: 'fake',
+    lastname: 'fake',
+    email: 'fakefake@fake.fak',
+    city: 'Toulon (83)',
+    phone_number: '0625',
+    password: 'aaAA!!00',
+    repeatPassword: 'aaAA!!00',
+    department_label: 'Var'
+  },
+  details: [
+    {
+      message: 'Incorrect phone number',
+      path: [ 'phone_number' ],
+      type: 'string.pattern.base',
+      context: {
+        name: undefined,
+        regex: /^(0|\+33|0033)[1-9][0-9]{8}$/,
+        value: '0625',
+        label: 'phone_number',
+        key: 'phone_number'
+      }
+    }
+  ],
+  level: 'error',
+  message: 'Incorrect phone number',
+  stack: 'ValidationError: Incorrect phone number',
+  timestamp: '2024-08-22T11:09:31.870Z'
+}

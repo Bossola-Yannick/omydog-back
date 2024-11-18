@@ -1,0 +1,9 @@
+.env
+node_modules
+sqitch.conf
+logfile
+test.http
+.dockerignore
+/uploads/*
+TODO.md
+app/static

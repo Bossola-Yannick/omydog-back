@@ -1,0 +1,35 @@
+version: "3.3"
+
+services:
+
+  myappback:
+    build: .
+    container_name: omydogback
+    depends_on:
+      - database
+    ports:
+      - 5000:5000
+    networks:
+      - mynetwork
+
+  database:
+    build:
+      context: ./db
+    container_name: omydogdb
+    environment:
+      POSTGRES_PASSWORD: omydog
+      POSTGRES_USER: omydog
+      POSTGRES_DB: omydog
+    volumes:
+      - pgdb:/var/lib/postgresql/data
+    ports:
+      - 3000:5432
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+
+volumes:
+  pgdb:
+    driver: local
